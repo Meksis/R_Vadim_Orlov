@@ -1,4 +1,4 @@
-df <- read.csv("c:/Users/pasha/OneDrive/Рабочий стол/R/dz7/ДЗ2_vgsales.csv")
+df <- read.csv("df_hw7.csv")
 library(shiny)
 library(dplyr)
 library(ggplot2)

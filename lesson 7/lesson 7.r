@@ -3,7 +3,7 @@ library(dplyr)
 library(ggplot2)
 library(DT)
 
-data <- read.csv('your_dataset.csv')
+data <- read.csv('df_hw7.csv')
 
 ui <- fluidPage(
   fluidRow(
